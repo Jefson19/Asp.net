@@ -1,0 +1,41 @@
+﻿
+
+@{
+    Layout = "~/Views/Shared/_VisualPadrao.cshtml";
+    ViewBag.Titulo = "Listar pessoas";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Ajax.ActionLink("Create New", "Cadastrar", new AjaxOptions()
+   {
+       HttpMethod = "GET",
+        UpdateTargetId = "formPessoa",
+         InsertionMode = InsertionMode.Replace
+   })
+    </p>
+    <div id="listaDePessoas">
+        @Html.Action("Listar");
+    </div>
+    <p id="formPessoa"></p>
+    @section scripts{
+    
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script>
+        function atualizeATela() {
+            $("#listaDePessoas").load("/Home/Listar");
+            $("#formPessoa").Empty();
+
+        }
+
+    </script>   
+     }
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Entidades\bin\Debug\Entidades.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Entidades\obj\Debug\Entidades.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Entidades\obj\Debug\Entidades.pdb

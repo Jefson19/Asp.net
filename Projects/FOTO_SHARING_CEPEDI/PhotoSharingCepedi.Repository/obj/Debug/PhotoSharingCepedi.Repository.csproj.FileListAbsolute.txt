@@ -1,0 +1,15 @@
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\bin\Debug\PhotoSharingCepedi.Repository.dll.config
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\bin\Debug\PhotoSharingCepedi.Repository.dll
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\bin\Debug\PhotoSharingCepedi.Repository.pdb
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\bin\Debug\EntityFramework.dll
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\bin\Debug\PhotoSharingCepedi.DataAccess.dll
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\bin\Debug\PhotoSharingCepedi.Models.dll
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\bin\Debug\PhotoSharingCepedi.DataAccess.pdb
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\bin\Debug\PhotoSharingCepedi.DataAccess.dll.config
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\bin\Debug\PhotoSharingCepedi.Models.pdb
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\bin\Debug\EntityFramework.xml
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\obj\Debug\PhotoSharingCepedi.Repository.csprojResolveAssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\obj\Debug\PhotoSharingCepedi.Repository.dll
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Repository\obj\Debug\PhotoSharingCepedi.Repository.pdb

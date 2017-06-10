@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Comment>
+@{
+    AjaxOptions ajaxOptions = new AjaxOptions { UpdateTargetId = "comments-tool" };
+}
+
+<h3>Comentários</h3>
+<hr />
+@using (Ajax.BeginForm("_CommentsForPhoto", new { PhotoId=ViewBag.PhotoId }, ajaxOptions))
+{
+    <div id="comments-toll">
+        <div id="all-comments">
+            @foreach (var item in Model)
+            {
+                <div class="photo-comment">
+                    <div class="photo-comment-from">
+                        De:
+                        @Html.DisplayFor(modelItem => item.User)
+                    </div>
+
+                    <div class="photo-comment-subject ">
+                        @Html.DisplayNameFor(model=>model.Title):
+                        @Html.DisplayFor(modelItem => item.Title)
+
+                    </div>
+
+                    <div class="photo-comment-body">
+                        @Html.DisplayFor(modelItem=>item.Body)
+                    </div>
+
+                    @Html.ActionLink("Apagar", "Delete", new { id=item.Id})
+                </div>
+            }
+        </div>
+        <div id="addcomment" class="add-comment-box">
+            @if (Request.IsAuthenticated)
+            {
+                @Html.Action("Criar")
+                //, "Comments", new { PhotoId=ViewBag.PhotoId}
+            }
+            else
+            {
+                @Html.ActionLink("Você deve ser autenticar para comentar","Login","Account")
+            }
+        </div>
+    </div>
+}

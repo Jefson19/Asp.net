@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSharingCepedi.Models", "PhotoSharingCepedi.Models\PhotoSharingCepedi.Models.csproj", "{B5ECCAE3-BDA8-42F0-A77E-FB7F8DF6D671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSharingCepedi.DataAccess", "PhotoSharingCepedi.DataAccess\PhotoSharingCepedi.DataAccess.csproj", "{0E22D050-5523-4CFC-8866-D2006C52D988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSharingCepedi.Repository", "PhotoSharingCepedi.Repository\PhotoSharingCepedi.Repository.csproj", "{EFBD173D-7D41-4267-A8E1-8F5E1513D6E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSharingCepedi.Web", "PhotoSharingCepedi.Web\PhotoSharingCepedi.Web.csproj", "{DDF7A4BB-C59E-4590-BED8-8092ED76BD1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5ECCAE3-BDA8-42F0-A77E-FB7F8DF6D671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5ECCAE3-BDA8-42F0-A77E-FB7F8DF6D671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5ECCAE3-BDA8-42F0-A77E-FB7F8DF6D671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5ECCAE3-BDA8-42F0-A77E-FB7F8DF6D671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E22D050-5523-4CFC-8866-D2006C52D988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E22D050-5523-4CFC-8866-D2006C52D988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E22D050-5523-4CFC-8866-D2006C52D988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E22D050-5523-4CFC-8866-D2006C52D988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFBD173D-7D41-4267-A8E1-8F5E1513D6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBD173D-7D41-4267-A8E1-8F5E1513D6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBD173D-7D41-4267-A8E1-8F5E1513D6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBD173D-7D41-4267-A8E1-8F5E1513D6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF7A4BB-C59E-4590-BED8-8092ED76BD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF7A4BB-C59E-4590-BED8-8092ED76BD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF7A4BB-C59E-4590-BED8-8092ED76BD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF7A4BB-C59E-4590-BED8-8092ED76BD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

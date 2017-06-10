@@ -1,0 +1,14 @@
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\bin\Debug\Repositorio.dll.config
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\bin\Debug\AcessoDados.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\bin\Debug\Entidades.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\bin\Debug\AcessoDados.pdb
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\bin\Debug\Entidades.pdb
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\Repositorio\obj\Debug\Repositorio.pdb

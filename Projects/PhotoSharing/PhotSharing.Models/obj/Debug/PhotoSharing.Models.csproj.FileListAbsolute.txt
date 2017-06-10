@@ -1,0 +1,4 @@
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotSharing.Models\bin\Debug\PhotoSharing.Models.dll
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotSharing.Models\bin\Debug\PhotoSharing.Models.pdb
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotSharing.Models\obj\Debug\PhotoSharing.Models.dll
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotSharing.Models\obj\Debug\PhotoSharing.Models.pdb

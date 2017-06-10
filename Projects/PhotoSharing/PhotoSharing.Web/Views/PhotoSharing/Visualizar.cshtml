@@ -1,0 +1,40 @@
+﻿@model PhotSharing.Models.Photo
+
+@{
+    ViewBag.Title = "Visualizar";
+}
+
+<h2>Visualizar</h2>
+
+<div>
+    <h4>Photo</h4>
+    <hr />
+    <div class="row">
+        <div class=" col-md-12">
+            <div class="thumbnail">
+                <img src="@Url.Action("ObterImagem","PhotoSharing",new { id=Model.Id})" />
+                <div class="caption">
+                    <h3>@Model.Title</h3>
+                    <p>@Model.Description</p>
+                    
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        @Html.Action("_CommentsForPhoto","Comments",new { PhotoId = Model.Id })
+    </div>
+</div>
+<p>
+ 
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+
+@section scripts
+{
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+}

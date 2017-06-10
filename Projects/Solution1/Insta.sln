@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoShared.Models", "PhotoShared.Models\PhotoShared.Models.csproj", "{0E6FC1CC-AE72-44F5-A981-B2265ACC4457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSharedCEPEDI.DataAccess", "PhotoSharedCEPEDI\PhotoSharedCEPEDI.DataAccess.csproj", "{1A30A66F-1DE7-4884-8F4B-73AEA74EE17B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoSharingCEPEDI.Repository", "PhotoSharingCEPEDI.Repository\PhotoSharingCEPEDI.Repository.csproj", "{818437B8-7B17-4913-9941-BB500199DD1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotosharingCEPEDI.Web", "PhotosharingCEPEDI.Web\PhotosharingCEPEDI.Web.csproj", "{6637AE87-776C-4F9D-8CA9-C209D999D29B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E6FC1CC-AE72-44F5-A981-B2265ACC4457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6FC1CC-AE72-44F5-A981-B2265ACC4457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6FC1CC-AE72-44F5-A981-B2265ACC4457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6FC1CC-AE72-44F5-A981-B2265ACC4457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A30A66F-1DE7-4884-8F4B-73AEA74EE17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A30A66F-1DE7-4884-8F4B-73AEA74EE17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A30A66F-1DE7-4884-8F4B-73AEA74EE17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A30A66F-1DE7-4884-8F4B-73AEA74EE17B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818437B8-7B17-4913-9941-BB500199DD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818437B8-7B17-4913-9941-BB500199DD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818437B8-7B17-4913-9941-BB500199DD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818437B8-7B17-4913-9941-BB500199DD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6637AE87-776C-4F9D-8CA9-C209D999D29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6637AE87-776C-4F9D-8CA9-C209D999D29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6637AE87-776C-4F9D-8CA9-C209D999D29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6637AE87-776C-4F9D-8CA9-C209D999D29B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

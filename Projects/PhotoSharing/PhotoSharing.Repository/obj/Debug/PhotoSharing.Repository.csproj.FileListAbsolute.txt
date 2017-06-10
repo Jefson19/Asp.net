@@ -1,0 +1,14 @@
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\bin\Debug\PhotoSharing.Repository.dll.config
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\bin\Debug\PhotoSharing.Repository.dll
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\bin\Debug\PhotoSharing.Repository.pdb
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\bin\Debug\EntityFramework.dll
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\bin\Debug\PhotoSharing.DataAccess.dll
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\bin\Debug\PhotoSharing.DataAccess.pdb
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\bin\Debug\EntityFramework.xml
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\obj\Debug\PhotoSharing.Repository.csprojResolveAssemblyReference.cache
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\obj\Debug\PhotoSharing.Repository.dll
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\obj\Debug\PhotoSharing.Repository.pdb
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\bin\Debug\PhotoSharing.Models.dll
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotoSharing.Repository\bin\Debug\PhotoSharing.Models.pdb

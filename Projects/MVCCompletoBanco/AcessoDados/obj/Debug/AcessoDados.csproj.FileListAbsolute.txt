@@ -1,0 +1,12 @@
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\AcessoDados\bin\Debug\AcessoDados.dll.config
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\AcessoDados\bin\Debug\Entidades.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\AcessoDados\bin\Debug\EntityFramework.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\AcessoDados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\AcessoDados\bin\Debug\Entidades.pdb
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\AcessoDados\bin\Debug\EntityFramework.xml
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\AcessoDados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\Jefs\Documents\Visual Studio 2015\Projects\MVCCompletoBanco\AcessoDados\obj\Debug\AcessoDados.pdb

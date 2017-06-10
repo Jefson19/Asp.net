@@ -1,0 +1,5 @@
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotSharing.Models\bin\Debug\PhotSharing.Models.dll
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotSharing.Models\bin\Debug\PhotSharing.Models.pdb
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotSharing.Models\obj\Debug\PhotSharing.Models.csprojResolveAssemblyReference.cache
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotSharing.Models\obj\Debug\PhotSharing.Models.dll
+c:\users\tulio\documents\visual studio 2015\Projects\PhotoSharing\PhotSharing.Models\obj\Debug\PhotSharing.Models.pdb

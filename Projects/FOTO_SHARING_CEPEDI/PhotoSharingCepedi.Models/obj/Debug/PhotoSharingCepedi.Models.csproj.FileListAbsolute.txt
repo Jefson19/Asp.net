@@ -1,0 +1,4 @@
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Models\bin\Debug\PhotoSharingCepedi.Models.dll
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Models\bin\Debug\PhotoSharingCepedi.Models.pdb
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Models\obj\Debug\PhotoSharingCepedi.Models.dll
+C:\Users\bruno\OneDrive\Documentos\Visual Studio 2017\Projects\FOTO_SHARING_CEPEDI\PhotoSharingCepedi.Models\obj\Debug\PhotoSharingCepedi.Models.pdb
